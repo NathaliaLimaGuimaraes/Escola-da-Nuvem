@@ -1,7 +1,7 @@
 # Escola-da-Nuvem
 Laboratórios desenvolvidos na Escola da Nuvem
 
-##Laboratório 11 - Introdução ao Amazon EC2
+## Laboratório 11 - Introdução ao Amazon EC2
 Este laboratório fornece uma visão geral básica de como iniciar, redimensionar, gerenciar e monitorar uma instância do Amazon EC2.
 
 # O que é Amazon EC2?
@@ -22,10 +22,10 @@ Amazon EC2 tem uma interface simples que permite que você obtenha e configure c
 
 - Encerre sua instância EC2
 
-##Tarefa 1: Iniciando sua instância EC2
+## Tarefa 1: Iniciando sua instância EC2
 Iniciará uma instância do Amazon EC2 com proteção de encerramento . A proteção de encerramento impede que você encerre acidentalmente uma instância do EC2. Você implantará sua instância com um script de Dados do Usuário que permitirá que você implante um servidor web simples.
 
-##Tarefa 2:
+
 
 
 
