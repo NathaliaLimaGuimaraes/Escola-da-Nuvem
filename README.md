@@ -1,4 +1,4 @@
-# Escola-da-Nuvem
+# Escola da Nuvem
 Laboratórios desenvolvidos na Escola da Nuvem
 
 ## Laboratório 11 - Introdução ao Amazon EC2
